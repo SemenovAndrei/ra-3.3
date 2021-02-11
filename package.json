@@ -21,6 +21,7 @@
     "precommit": "lint-staged"
   },
   "devDependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "classnames": "^2.2.6",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",

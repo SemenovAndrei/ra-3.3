@@ -3,6 +3,6 @@ import App from './App'
 
 test('renders App', () => {
   render(<App />)
-  const appEl = document.querySelector('.App')
+  const appEl = document.querySelector('.container')
   expect(appEl).toBeTruthy()
 })
